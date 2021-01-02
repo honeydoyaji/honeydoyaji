@@ -1,16 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Seohyun%20Yoon&fontSize=80&animation=twinkling)
 
-<!--
-**babydoyaji/babydoyaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div align=center>
 
-Here are some ideas to get you started:
+##### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##### Social
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbabydoyaji&count_bg=%23D48FEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  </div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=FAEBEF&height=50)
+    
