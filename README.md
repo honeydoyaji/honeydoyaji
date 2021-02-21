@@ -7,8 +7,8 @@
 #### Software Developer
 
 Hi, All 👋  
-I started studying coding since I have tons of ideas but I don't have the skills to implement them.  
-My goal right now is to create what I imagine as soon as the idea come thought my brain.  
+I started studying coding since I have tons of ideas but I have no skills to implement them.  
+My goal right now is to study until I get the skills to create what I imagine based on my ideas!  
 
   <br />
   
