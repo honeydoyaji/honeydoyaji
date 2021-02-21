@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Seohyun%20Yoon&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hi,%20Seohyun%20Yoon&fontSize=30&animation=twinkling)
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+### 🐽 About ME 
+- 🎓 **Senior Undergraduate Student** at Purdue University - West Lafayette
+- 💘 Interested in **Web Full Stack Development**, **Data Science**, **Deep Learning**
 
   <div align=center>
-
-##### Tech Stack
+  
+### 💻 Tech Stack 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
