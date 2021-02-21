@@ -1,7 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hi,%20All!%20I'm%20Seohyun%20Yoon&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hello,%20World!&fontSize=30&animation=twinkling)
 
-<img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='500'>
+<img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='150'>
 
+  <br />
+  
+Hi, All! I am Seohyun (Claire) Yoon.  
+I love to share ideas, thought and experiences!
+  
+  <br />
+  
 ### 🐽 About ME 
 - 🎓 **Junior Undergraduate Student** at Purdue University - West Lafayette
 - ✨ Exploring the fields of **Web Full Stack Development**, **Data Science**, **Deep Learning** 
@@ -27,4 +34,4 @@
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=FAEBEF&height=50)
-    
+   
