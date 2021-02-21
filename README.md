@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hi,%20Seohyun%20Yoon&fontSize=30&animation=twinkling)
 
-
 <img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='300'>
 
 ### 🐽 About ME 
@@ -11,7 +10,7 @@
   <div align=center>
   <br />
   <br />
-  <br />
+
 ### 💻 Tech Stack 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
