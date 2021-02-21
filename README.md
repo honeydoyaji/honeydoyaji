@@ -6,7 +6,7 @@
 - 🎓 **Junior Undergraduate Student** at Purdue University - West Lafayette
 - ✨ Exploring the fields of **Web Full Stack Development**, **Data Science**, **Deep Learning** 
 - 💘 Also interested in **Game development** -- I think this is one of the most creative works in the world!
-- 💧 Curretnly in **Seoul, South Korea** due to the pandemic
+- 💧 Currently in **Seoul, South Korea** due to the pandemic
 
   <br />
 
