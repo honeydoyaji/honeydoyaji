@@ -9,7 +9,6 @@
 - 💧 Curretnly in **Seoul, South Korea** due to the pandemic
 
   <br />
-  <br />
 
 ### 💻 Tech Stack 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
@@ -21,7 +20,6 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=Unreal&logoColor=white"/></a> &nbsp;
 
-  <br />
   <br />
 
 ### 💜 Hit
