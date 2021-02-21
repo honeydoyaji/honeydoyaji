@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hi,%20Seohyun%20Yoon&fontSize=30&animation=twinkling)
 
+
 <img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='300'>
 
 ### 🐽 About ME 
-- 🎓 **Senior Undergraduate Student** at Purdue University - West Lafayette
-- 💘 Interested in **Web Full Stack Development**, **Data Science**, **Deep Learning**
+- 🎓 **Junior Undergraduate Student** at Purdue University - West Lafayette
+- 💘 Exploring the fields of **Web Full Stack Development**, **Data Science**, **Deep Learning** 
+- 💧 Curretnly in **Seoul, South Korea** due to the pandemic
 
   <div align=center>
   <br />
