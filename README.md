@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hi,%20Seohyun%20Yoon&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hi,%20All!%20I'm%20Seohyun%20Yoon&fontSize=30&animation=twinkling)
 
 <img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='300'>
 
