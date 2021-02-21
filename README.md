@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hello,%20World!&fontSize=30&animation=twinkling)
 
-<img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='150'>
 
-  <br />
-  
-Hi, All! I am Seohyun (Claire) Yoon.  
-I love to share ideas, thought and experiences!
-  
+<img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='300'>
+
+### Seohyun (Claire) Yoon
+##### Software Developer
+
+Hi, All 👋
+I started studying coding since I have tons of ideas but I don't have the skills to implement them.
+My goal right now is to create what I imagine as soon as the idea come thought my brain.
+
   <br />
   
 ### 🐽 About ME 
