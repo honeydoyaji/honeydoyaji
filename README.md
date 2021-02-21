@@ -4,7 +4,7 @@
 <img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='300'>
 
 ### Seohyun (Claire) Yoon
-##### Software Developer
+#### Software Developer
 
 Hi, All 👋
 I started studying coding since I have tons of ideas but I don't have the skills to implement them.
