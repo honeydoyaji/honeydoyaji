@@ -34,10 +34,11 @@ My goal right now is to study until I get the skills to create what I imagine ba
 
 ### 💜 Hit
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbabydoyaji&count_bg=%23D48FEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
+  
 ### :octocat: GitHub Stats
 
-<img src = "https://github-readme-stats.vercel.app/api?username=honeydoyaji&show_icons=true&theme=radical&count_private=true&line_height=27">  
+<img src = "https://github-readme-stats.vercel.app/api?username=honeydoyaji&show_icons=true&theme=radical&count_private=true&line_height=20">  
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=honeydoyaji&hide=css,java,html,asp&theme=radical&langs_count=4">
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=FAEBEF&height=50)
