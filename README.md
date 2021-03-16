@@ -28,7 +28,6 @@ My goal right now is to study until I get the skills to create what I imagine ba
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
-   <br />
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white"/></a> &nbsp;
 
