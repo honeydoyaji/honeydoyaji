@@ -20,7 +20,7 @@ My goal right now is to study until I get the skills to create what I imagine ba
 
   <br />
 
-### 💻 Tech Stack 
+### 💻 Tech Stacks
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
@@ -28,7 +28,8 @@ My goal right now is to study until I get the skills to create what I imagine ba
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=Unreal&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=Unreal&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp;
 
   <br />
 
