@@ -38,8 +38,8 @@ My goal right now is to study until I get the skills to create what I imagine ba
   
 ### :octocat: GitHub Stats
 
-<img src = "https://github-readme-stats.vercel.app/api?username=honeydoyaji&show_icons=true&theme=radical&count_private=true&line_height=20">  
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=honeydoyaji&hide=css,java,html,asp&theme=radical&langs_count=4">
+<img src = "https://github-readme-stats.vercel.app/api?username=honeydoyaji&show_icons=true&theme=solarized-light&count_private=true&line_height=20">  
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=honeydoyaji&hide=css,java,html,asp&theme=solarized-light&langs_count=4&layout=compact">
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=FAEBEF&height=50)
    
