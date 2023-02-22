@@ -13,9 +13,8 @@ My goal is study until I get the skills to create what I imagine.
   <br />
   
 ### 🐽 About ME 
-- 🎓 **Junior Undergraduate Student** at Purdue University - West Lafayette
-- ✨ Exploring the fields of **Web Full Stack Development**, **Data Science**, **Deep Learning** 
-- 💘 Also interested in **Game development** -- I think this is one of the most creative works in the world!
+- 🎓 **Senior Undergraduate Student** at Purdue University - West Lafayette
+- ✨ Exploring the fields of **Full Stack Web Development**, **Cloud - AWS**, **Database** 
 - 💧 Currently in **Seoul, South Korea** due to the pandemic
 
   <br />
