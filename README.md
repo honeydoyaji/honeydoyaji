@@ -1,46 +1,49 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hello,%20World!&fontSize=30&animation=twinkling)
+# 🍬 Welcome to the Candy Kingdom Laboratory! 👑
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=ff69b4&height=150&section=header&text=Mathematical!%20System%20Online&fontSize=40&animation=fadeIn" />
+  <p align="center">"Idea, Build, Magic!" 🧪✨</p>
+</div>
 
-<img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='260'>
+## 🧪 Royal Engineer & AI Architect Profile
+**Current Quest:** Engineering End-to-End AI Systems & Scaling Automated Pipelines  
 
-### Seohyun (Claire) Yoon
-#### Software Developer
+* 🏰 **Base:** Land of Ooo
+* 🗺️ **Explorer Rank:** Navigated 12+ countries across 🇺🇸 🇨🇦 🇦🇺
 
-Hi, All 👋  
-I started coding for implementing my numerous ideas to the real life. 
-My goal is study until I get the skills to create what I imagine.
+---
 
-  <br />
-  
-### 🐽 About ME 
-- 🎓 **Senior Undergraduate Student** at Purdue University - West Lafayette
-- ✨ Exploring the fields of **Full Stack Web Development**, **Cloud - AWS**, **Database** 
-- 💧 Currently in **Seoul, South Korea** due to the pandemic
+## 🛠 Scientific Equipment (Tech Stack)
+These are the advanced tools used to power the Kingdom's autonomous agents.
 
-  <br />
+### ✦ Core Intelligence (Gen AI)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![GenAI](https://img.shields.io/badge/Gen_AI-FF69B4?style=for-the-badge&logo=openai&logoColor=white) 
+* **Focus:** Agentic Workflows, Architecture Design, Project Management
 
-### 💻 Tech Stacks
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white"/></a> &nbsp;
+### ✦ Data & Backend Engines
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![BigQuery](https://img.shields.io/badge/BigQuery-6699FF?style=for-the-badge&logo=google-cloud&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC6699?style=for-the-badge&logo=databricks&logoColor=white)
+* **Focus:** Vector Search, Database Design, Scalable Logic
 
-  <br />
+### ✦ Deployment & Scale
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+* **Focus:** Prototyping, Automated Pipelines, Orchestration
 
-### 💜 Hit
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbabydoyaji&count_bg=%23D48FEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  <br />
-  
-### :octocat: GitHub Stats
+---
 
-<img src = "https://github-readme-stats.vercel.app/api?username=honeydoyaji&show_icons=true&theme=Gradient&count_private=true&line_height=20">  
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=honeydoyaji&theme=Gradient&langs_count=4&layout=compact">
+## 📊 Laboratory Monitoring (GitHub Stats)
+Real-time tracking of experimental results. **Oh my Glob!**
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=FAEBEF&height=50)
-   
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honeydoyaji&show_icons=true&theme=rose&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeydoyaji&layout=compact&theme=rose&hide_border=true" />
+</p>
+
+---
+
+## 💌 Messenger Owl (Communication)
+- 💼 **Digital Scroll:** [LinkedIn Profile](https://www.linkedin.com/in/shclaireyoon/)
+- 💬 **Ask me about:** AI Agents, Cloud Scalability, or Adventure Time!
+
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5emR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx66WYPF5u/giphy.gif" width="100px">
+</div>
