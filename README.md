@@ -38,12 +38,6 @@ Real-time tracking of experimental results. **Oh my Glob!**
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeydoyaji&layout=compact&theme=rose&hide_border=true" />
 </p>
 
----
-
-## 💌 Messenger Owl (Communication)
-- 💼 **Digital Scroll:** [LinkedIn Profile](https://www.linkedin.com/in/shclaireyoon/)
-- 💬 **Ask me about:** AI Agents, Cloud Scalability, or Adventure Time!
-
 <div align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5emR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5bmR5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx66WYPF5u/giphy.gif" width="100px">
+
 </div>
